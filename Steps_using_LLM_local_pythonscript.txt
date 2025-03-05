@@ -1,0 +1,11 @@
+1 - Have Ollama with a model of your choice installed and certify that is running.
+
+2 - Check if the model runs and receives an API response (Check if model is running with curl and receives API response)
+
+curl -X POST http://localhost:11434/api/generate -H "Content-Type: application/json" -d "{\"model\": \"erwan2/DeepSeek-R1-Distill-Qwen-14B\", \"prompt\": \"Hello\", \"stream\": false}"
+
+3 - Use the following script.
+
+4 - Import the specified module to another script and check if it's working.
+
+
