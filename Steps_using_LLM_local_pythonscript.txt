@@ -1,8 +1,11 @@
-1 - Have Ollama with a model of your choice installed and certify that is running.
+1 - Have Ollama with a LLM model of your choice installed and certify that is running.
 
-2 - Check if the model runs and receives an API response (Check if model is running with curl and receives API response)
+2 - Check if the model runs and receives an API response (curl and receives)
 
-curl -X POST http://localhost:11434/api/generate -H "Content-Type: application/json" -d "{\"model\": \"MODELNAME\", \"prompt\": \"Hello\", \"stream\": false}"
+MODEL_NAME = Name of the model you want to use
+API_URL = localhost:[Port Number]/api/generate
+
+curl -X POST [API_URL] -H "Content-Type: application/json" -d "{\"model\": \"{MODEL_NAME]\", \"prompt\": \"Hello\", \"stream\": false}"
 
 3 - Use the following script.
 
