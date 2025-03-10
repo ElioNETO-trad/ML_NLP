@@ -2,10 +2,10 @@ import requests
 
 def query_ollama(input_text):
     
-    base_url = "http://localhost:11434/api/generate"
+    base_url = "[API_address+/api/generate]"
 
     payload = {
-    "model": "erwan2/DeepSeek-R1-Distill-Qwen-14B",
+    "model": "[your_model_name]",
     "prompt": input_text,  # Use "prompt" instead of "messages"
     "stream": False  # Disable streaming for a clean response
     }
