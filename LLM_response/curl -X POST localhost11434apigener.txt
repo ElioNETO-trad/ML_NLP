@@ -1,0 +1,1 @@
+curl -X POST localhost:11434/api/generate -H "Content-Type: application/json" -d "{\"model\": \"erwan2/DeepSeek-R1-Distill-Qwen-14B:latest\", \"prompt\": \"Hello\", \"stream\": false}"
