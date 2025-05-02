@@ -1,2 +1,2 @@
-My personal Repo for projects focusing on Machien Learning/NLP & Automatization.
+My personal Repo for projects focusing on Machine Learning/NLP & Automatization.
 
