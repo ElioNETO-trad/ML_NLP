@@ -1,2 +1,2 @@
-My personal Repo for Python programs focusing on AI & Automatization.
+My personal Repo for projects focusing on Machien Learning/NLP & Automatization.
 
