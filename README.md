@@ -9,4 +9,4 @@ To update:
 * My personal ML/Neural Network/NLP annotations
 * Automatization scripts (Python)
 * Linux documentation (Arch distro)
-* AI local models documentaiton: Ollama platform for running models locally (currently using DeepSeek R1 14b + llama3:instruct 8b)
+* AI local models documentation: Ollama platform for running models locally (currently using DeepSeek R1 14b + llama3:instruct 8b)
