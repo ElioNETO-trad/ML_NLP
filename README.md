@@ -7,5 +7,5 @@ To update:
 * Documentation (Git, NumPy, matplotlib, scikit-learn, pandas)
 * ongoing projects : LLM running locally with API directly on the code / Youtube Summarizer / Creating GPT from scratch / simple regression/logistic models (ML/Supervised folders) / Small translation model (EN <> FR)
 * My personal ML/Neural Network/NLP annotations
-* Automatization scripts (in Python)
+* Automatization scripts (Python)
 * Linux documentation (Arch/Ollama + which local models I'm currently using)
