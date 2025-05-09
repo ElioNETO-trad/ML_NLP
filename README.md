@@ -4,8 +4,9 @@ I'm currently in the process of reorganizing all my annotations before uploading
 
 
 To update: 
-* Documentation (Git, NumPy, matplotlib, scikit-learn, pandas)
-* ongoing projects : LLM running locally with API directly on the code / Youtube Summarizer / Creating GPT from scratch / simple regression/logistic models (ML/Supervised folders) / Small translation model (EN <> FR)
+* Python libraries documentation (Git, NumPy, matplotlib, scikit-learn, pandas)
+* ongoing projects : LLM running locally with API directly on the code / Youtube Summarizer / Simple regression/logistic models (ML/Supervised folders) / Small translation model (EN <> FR) / Creating GPT from scratch 
 * My personal ML/Neural Network/NLP annotations
 * Automatization scripts (Python)
-* Linux documentation (Arch/Ollama + which local models I'm currently using (DeepSeek R1 14b + llama3:instruct 8b)
+* Linux documentation (Arch distro)
+* AI local models documentaiton: Ollama platform for running models locally (currently using DeepSeek R1 14b + llama3:instruct 8b)
