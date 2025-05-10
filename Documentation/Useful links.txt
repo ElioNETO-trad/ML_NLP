@@ -1,0 +1,6 @@
+Useful links:
+
+
+Running LLM locally + quantizzing the model + benchmark
+https://blog.steelph0enix.dev/posts/llama-cpp-guide/
+
