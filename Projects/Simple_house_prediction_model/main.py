@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import mean_squared_error #tobefixed
+from sklearn.metrics import mean_squared_error #to fix
 from sklearn.linear_model import LinearRegression
 import plotly.express as px
 
@@ -18,7 +18,7 @@ def train_model():
     df = generate_house_data(n_samples = 100)
     x = df[['size']]
     y = df[['price']]
-    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2)
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2) #to fix
 
     model = LinearRegression()
     model.fit(x_train, y_train)
