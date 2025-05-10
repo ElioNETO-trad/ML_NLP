@@ -1,4 +1,5 @@
 #Tutorial: https://www.youtube.com/watch?v=8Y0qQEh7dJg
+#Tutorial 2: https://www.youtube.com/playlist?list=PL9oKUrtC4VP6gDp1Vq3BzfViO0TWgR0vR
 import numpy as np
 import matplotlib.pylab as plt
 from numpy import random #to create random arrays
