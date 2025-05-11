@@ -10,3 +10,4 @@ To update:
 * Automatization scripts (Python)
 * Linux documentation (Arch distro)
 * AI local models documentation: Ollama platform for running models locally (currently using DeepSeek R1 14b + llama3:instruct 8b)
+* Special project: Create philosopher agents in game (Source: https://github.com/neural-maze/philoagents-course) - Goal: Complete project & gather additional data sources (expected to add eastern philosophers)
